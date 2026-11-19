@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-exchange: data exchange model.
 //!
 //! Real implementation: APIs, webhooks, feeds, and validation.
